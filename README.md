@@ -60,7 +60,7 @@ To clone and run this application, you'll need to use [Git](https://git-scm.com)
 
 ```bash
 # Clone this repository.
-$ git clone https://github.com/TalMizrahii/Assembly-Pstrings
+$ git clone https://github.com/omerbar97/pString-Assembly.git
 
 # Go into the repository.
 $ cd Pstring-Assembly
