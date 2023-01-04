@@ -63,10 +63,10 @@ To clone and run this application, you'll need to use [Git](https://git-scm.com)
 $ git clone https://github.com/TalMizrahii/Assembly-Pstrings
 
 # Go into the repository.
-$ cd Assembly-Pstrings
+$ cd Pstring-Assembly
 
-# Compile the program.
-$ gcc run_main.s func_select.s pstring.s
+# Compile the program using makefile.
+$ make
 
 # Run the program (Linux).
 $ ./a.out
